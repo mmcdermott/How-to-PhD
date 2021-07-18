@@ -5,7 +5,7 @@
 In this section, we discuss computational technical skills (e.g., command-line expertise, server management,
 software packages).
 
-## 1. How do you write papers?
+## How do you write papers?
 ### Guiding Questions
   1. What should the overall structure be?
   2. How do you write the Introduction / Framing section(s)?
@@ -27,10 +27,10 @@ software packages).
     4. Why hasn't it been solved before? (Or, what's wrong with previous proposed solutions? How does mine differ?)
     5. What are the key components of my approach and results? Also include any specific limitations.
 
-### Interviews
+### Interview Highlights
 *Under Construction*
 
-## 2. How do you read papers?
+## How do you read papers?
 ### Guiding Questions
   1. ... for a literature review for an established project?
   2. ... for general reading to stay abreast of the field?
@@ -42,10 +42,10 @@ software packages).
 ### Specific Resources
 *Under Construction*
 
-### Interviews
+### Interview Highlights
 *Under Construction*
 
-## 3. How do you make a good Figure?
+## How do you make a good Figure?
 ### Guiding Questions
   1. What kinds of figures are there?
   2. What design philosophies or technologies do you use?
@@ -58,10 +58,10 @@ software packages).
 ### Specific Resources
 *Under Construction*
 
-### Interviews
+### Interview Highlights
 *Under Construction*
 
-## 4. How do you make a good presentation / poster?
+## How do you make a good presentation / poster?
 ### Guiding Questions
   1. How do you make effective presentations?
   2. How do you make effective posters?A
@@ -72,10 +72,10 @@ software packages).
 ### Specific Resources
 *Under Construction*
 
-### Interviews
+### Interview Highlights
 *Under Construction*
 
-## 5. How do you attend conferences / watch presentations / view posters?
+## How do you attend conferences / watch presentations / view posters?
 ### Guiding Questions
   1. What are the major sources of value you get out of attending a conference?
   2. How do you identify what sessions to attend?
@@ -88,5 +88,5 @@ software packages).
 ### Specific Resources
 *Under Construction*
 
-### Interviews
+### Interview Highlights
 *Under Construction*
