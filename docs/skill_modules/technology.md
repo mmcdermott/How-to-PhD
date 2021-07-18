@@ -1,6 +1,6 @@
-# Technology Skill Modules
+# Technology
 ## Overview
-*Under Construction* Please check back later!
+**Under Construction** Please check back later!
 
 In this section, we discuss computational technical skills (e.g., command-line expertise, server management,
 software packages).
@@ -20,6 +20,7 @@ software packages).
    pursuing a CS PhD, including Shell Scripting, Editors, Git, and others.
 
 ### Interviews
+*Under Construction*
 
 ## 2. Balancing Unstructured vs. Structured Learning?
 ### Guiding Questions
@@ -27,10 +28,13 @@ software packages).
      doing research?
 
 ### Overall Commentary \& Key Take-aways
+*Under Construction*
 
 ### Specific Resources
+*Under Construction*
 
 ### Interviews
+*Under Construction*
 
 ## 3. Effective Infrastructure Management for Academic Groups / Research Projects
 ### Guiding Questions
@@ -40,7 +44,10 @@ software packages).
      research project?
 
 ### Overall Commentary \& Key Take-aways
+*Under Construction*
 
 ### Specific Resources
+*Under Construction*
 
 ### Interviews
+*Under Construction*
