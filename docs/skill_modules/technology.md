@@ -11,7 +11,7 @@ software packages).
     1. What technical skills are nice-to-haves?
   2. How do you learn those technical skills?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -27,7 +27,7 @@ software packages).
   1. How much time do you spend on improving and refining basic technical skills purely for their own sake vs.
      doing research?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -43,7 +43,7 @@ software packages).
   3. What's the best way to structure servers, learning environments, code, file folders, etc. for a new
      research project?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources

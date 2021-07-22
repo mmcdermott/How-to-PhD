@@ -5,6 +5,9 @@
 In this section, we discuss computational technical skills (e.g., command-line expertise, server management,
 software packages).
 
+## General Resources
+  1. [Make it Clear](https://mitpress.mit.edu/books/make-it-clear)
+
 ## How do you write papers?
 ### Guiding Questions
   1. What should the overall structure be?
@@ -14,7 +17,7 @@ software packages).
   5. How do you respond to criticism about your paper? What do you do if you find a significant mistake in
      your paper after it has been published? After it has been significantly cited?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -36,7 +39,7 @@ software packages).
   2. ... for general reading to stay abreast of the field?
   3. ... for reviewing?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -45,14 +48,14 @@ software packages).
 ### Interview Highlights
 *Under Construction*
 
-## How do you make a good Figure?
+## How do you make good figures?
 ### Guiding Questions
   1. What kinds of figures are there?
   2. What design philosophies or technologies do you use?
   3. How do you make a good overview figure?
   4. How do you make a good results/data figure?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -66,7 +69,7 @@ software packages).
   1. How do you make effective presentations?
   2. How do you make effective posters?A
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -82,7 +85,7 @@ software packages).
   3. How do you watch presentations?
   4. How do you attend poster sessions?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources

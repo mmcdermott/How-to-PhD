@@ -1,5 +1,8 @@
 # Academic Service
 ## Overview
+In this section, we discuss skills related to the *Academic Service* component of doing a PhD--meaning,
+concretely, skills like reviewing, organizing conferences or workshops, mentoring, etc.
+
 **Under Construction** Please check back later!
 
 ## How do you review papers?
@@ -8,7 +11,7 @@
   2. For what venues should you review?
   3. How do you review papers?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -22,7 +25,7 @@
   2. How can you give back / postiviely beneift your ML sub-community? E.g., mentorship opportunities, good
      practices, etc.
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources

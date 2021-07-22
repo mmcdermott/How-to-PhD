@@ -12,7 +12,7 @@
   2. How do you prioritize different projects? Taking classes?
   4. What should be the priorities at the various stages of one's PhD?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -28,7 +28,7 @@
   4. How do you avoid The Grad Student Fallacy"?
      (... Also what is The Grad Student Fallacy?)
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 #### Key Concepts
@@ -58,7 +58,7 @@ time off and space away, and to manage your stress despite the never-ending stre
   2. How do you react productively when key experiments fail?
   3. How do you react productively when your applications are rejected?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -72,7 +72,7 @@ time off and space away, and to manage your stress despite the never-ending stre
   2. How do you know what information sources to trust (e.g., different blogs, arxiv papers, twitter threads,
      published papers, etc.)?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources

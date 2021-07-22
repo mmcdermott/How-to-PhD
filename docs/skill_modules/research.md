@@ -7,7 +7,7 @@
   1. How do you come up with a new project?
   2. How to gauge the viability / likelihood of success of a new project?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -15,7 +15,7 @@
 ### Interview Highlights
 *Under Construction*
 
-## Starting New Projects
+## Starting Projects
 ### Guiding Questions
   1. How to scope a new project?
   2. How do you determine the preliminary milestones and timeline of a new project?
@@ -23,7 +23,7 @@
        1. How do you find relevant papers?
        2. How do you read papers you do find? _Also see general paper reading question._
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -43,7 +43,7 @@
   3. When do you (drastically) pivot a project to something new?
   3. When do you give up on a project? When do you keep pushing?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources

@@ -5,12 +5,12 @@ Please check back later!
 ## Overview
 **Under Construction** Please check back later!
 
-## The Thesis \& Graduation
+## Thesis & Graduation
 ### Guiding Questions
   1. How much should you care about your thesis?
   2. What makes a good thesis?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -34,7 +34,7 @@ Please check back later!
        2. What goes into an academic job application?
        3. What are some examples of good and bad academic job packets?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -49,7 +49,7 @@ Please check back later!
      industry job?
   3. How can you best prepare for the industry job market in the year and a half leading up to graduation?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources

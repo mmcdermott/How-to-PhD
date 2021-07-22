@@ -10,7 +10,7 @@
   3. What resources are there at your institution if you are suffering financial stress?
   4. What resources are there at your institution to help in cases of harassment?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -20,12 +20,13 @@
 
 ## What are "Red Flag" situations, and how do you respond to them?
 ### Guiding Questions
-  1. How can you tell when you need to take time off to focus on yourself / your health & wellbeing?
-  2. How can you tell when you're suffering from serious financial stress?
-  3. How can you tell when your relationship with your advisor is bad?
-  4. How can you tell when your relationship with a labmate is bad?
+  1. How can you tell when you need to take time off to focus on yourself / your health & wellbeing? What do
+     you do in such a situation?
+  2. How can you tell when you're suffering from serious financial stress? What do you do in such a situation?
+  3. How can you tell when your relationship with your advisor is bad? What do you do in such a situation?
+  4. How can you tell when your relationship with a labmate is bad? What do you do in such a situation?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
@@ -41,7 +42,7 @@
   4. What are the resources at your institution to help navigate such conflicts?
   5. What do you do if your relationship with your advisor is unhealthy or negative for any other reason?
 
-### Overall Commentary \& Key Take-aways
+### Overall Commentary & Key Take-aways
 *Under Construction*
 
 ### Specific Resources
