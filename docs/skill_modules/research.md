@@ -27,6 +27,10 @@
 *Under Construction*
 
 ### Specific Resources
+#### [How to do good research, get in published in SIGKDD, and get it cited!](https://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
+This guide is largely focused on hos to structure projects for publication and impact, and is very related to
+communication questions as well. It is thus also featured in the [communication](skill_modules/communication)
+section of this guide, but it is very relevant here too!
 
 ### Interview Highlights
 *Under Construction*

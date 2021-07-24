@@ -21,14 +21,19 @@ software packages).
 *Under Construction*
 
 ### Specific Resources
-  1. [Stanford InfoLab Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
-     This guide is a great starting point for writing technical papers. I particularly value their discussion on
-     the introduction, which states that an effective introduction must focus on answering five key questions:
-    1. What is the problem?
-    2. Why is it interesting and important?
-    3. Why is it hard? (E.g., why do naive approaches fail?)
-    4. Why hasn't it been solved before? (Or, what's wrong with previous proposed solutions? How does mine differ?)
-    5. What are the key components of my approach and results? Also include any specific limitations.
+#### [Stanford InfoLab Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
+This guide is a great starting point for writing technical papers. I particularly value their discussion on
+the introduction, which states that an effective introduction must focus on answering five key questions:
+  1. What is the problem?
+  2. Why is it interesting and important?
+  3. Why is it hard? (E.g., why do naive approaches fail?)
+  4. Why hasn't it been solved before? (Or, what's wrong with previous proposed solutions? How does mine differ?)
+  5. What are the key components of my approach and results? Also include any specific limitations.
+
+#### [How to do good research, get in published in SIGKDD, and get it cited!](https://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)
+This guide is more comprehensive than just focusing on the writing part, and is featured also in the
+[research](skill_modules/research) section of this guide, but it is very relevant here too! Note the synergy
+between this and the Stanford InfoLab tips above.
 
 ### Interview Highlights
 *Under Construction*
