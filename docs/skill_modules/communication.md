@@ -38,21 +38,6 @@ between this and the Stanford InfoLab tips above.
 ### Interview Highlights
 *Under Construction*
 
-## How do you read papers?
-### Guiding Questions
-  1. ... for a literature review for an established project?
-  2. ... for general reading to stay abreast of the field?
-  3. ... for reviewing?
-
-### Overall Commentary & Key Take-aways
-*Under Construction*
-
-### Specific Resources
-*Under Construction*
-
-### Interview Highlights
-*Under Construction*
-
 ## How do you make good figures?
 ### Guiding Questions
   1. What kinds of figures are there?
@@ -69,10 +54,11 @@ between this and the Stanford InfoLab tips above.
 ### Interview Highlights
 *Under Construction*
 
-## How do you make a good presentation / poster?
+## How do you read papers?
 ### Guiding Questions
-  1. How do you make effective presentations?
-  2. How do you make effective posters?A
+  1. ... for a literature review for an established project?
+  2. ... for general reading to stay abreast of the field?
+  3. ... for reviewing?
 
 ### Overall Commentary & Key Take-aways
 *Under Construction*
@@ -83,12 +69,37 @@ between this and the Stanford InfoLab tips above.
 ### Interview Highlights
 *Under Construction*
 
-## How do you attend conferences / watch presentations / view posters?
+## How do you review papers?
 ### Guiding Questions
-  1. What are the major sources of value you get out of attending a conference?
-  2. How do you identify what sessions to attend?
-  3. How do you watch presentations?
-  4. How do you attend poster sessions?
+  1. When should you start reviewing?
+  2. For what venues should you review?
+  3. How do you review papers?
+
+### Overall Commentary & Key Take-aways
+*Under Construction*
+
+### Specific Resources
+#### Reviewer Guidelines
+The first place to start when thinking about how to be a better reviewer is by looking at the guidelines
+posted by the venues asking for reviews! Here are a few:
+  1. [NeurIPS 2021](https://neurips.cc/Conferences/2021/Reviewer-Guidelines)
+  2. [ICML 2020](https://icml.cc/Conferences/2020/ReviewerGuidelines)
+  3. [ICLR 2021](https://iclr.cc/Conferences/2021/ReviewerGuide)
+  4. [AAAI 2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2019/09/AAAI-20-Reviewing-Guidelines.pdf)
+  5. KDD--Actually, I can't find anything for KDD after 2011. If you find anything, [contact me](contact).
+
+### Interview Highlights
+*Under Construction*
+
+### Other Links
+These are links that are interesting and relevant, but not as directly informative or essential as those in
+other sections.
+  1. https://blog.ml.cmu.edu/2020/12/01/icml2020exp/
+
+## How do you make a good presentation / poster?
+### Guiding Questions
+  1. How do you make effective presentations?
+  2. How do you make effective posters?A
 
 ### Overall Commentary & Key Take-aways
 *Under Construction*
