@@ -37,7 +37,6 @@ students---whatever we can do collectively to acheive that, I'm all for.
        3. Information channels
   6. [Moving On](skill_modules/moving_on)
        1. Thesis & Graduation
-       2. Career Options
        3. Academic Careers
        4. Industry Careers
   7. [The Big Stuff](skill_modules/the_big_stuff)

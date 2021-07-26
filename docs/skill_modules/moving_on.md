@@ -18,11 +18,6 @@ Please check back later!
 ### Interview Highlights
 *Under Construction*
 
-## Career Options
-### Guiding Questions
-  1. What are the options available for post-PhD careers?
-  2. How do you know if certain career options are right for you? How do you decide what you want to do?
-
 ## Academic Careers
 ### Guiding Questions
   1. What does the academic job market application process look like?
