@@ -46,14 +46,14 @@ like a slight variation of the Stanford InfoLab tips mentioned below:
      _Note here that "interesting" doesn't refer to the technical complexity of your solution, but rather why
      the investigation you're proposing is interesting in and of itself (if it is)_.
   3. Why is it hard? 
-       a. Why do naive baselines fail?
+       1. Why do naive baselines fail?
           _In some cases, it may be self-evident why naive baselines fail. In such cases, while you should still
           know why they fail, you may not include that in your paper._
-       b. Why hasn't it been solved before? / What's wrong with previous proposed solutions?
+       2. Why hasn't it been solved before? / What's wrong with previous proposed solutions?
           Ideally, for this point, you can give a single clear problem that dictates why prior solutions fail,
           and use that to motivate your solution below.
   4. How do I solve the problem?
-     a. Concretely, how do I address the problem identified in 3b? How do I differ from prior works?
+     1. Concretely, how do I address the problem identified in 3b? How do I differ from prior works?
   5. How will I convince you that my solution works? E.g., what are my results?
   6. What is the context in which my solution works? What are the limitations of my solutoin?
 
@@ -80,18 +80,18 @@ you want to help expand on any of these points!
      Here you establish your credentials, and show that you aren't missing any major sections related to your
      work.
   3. *Methods.*
-     a. *Preliminary Notation.*
-     b. *Problem API.*
+     1. *Preliminary Notation.*
+     2. *Problem API.*
         In many papers, especially those for core ML conferneces (e.g., NeurIPS, ICML, ICLR, AAAI), it is a
         great strategy to describe the "API" for your problem at the outset of your methods. Here, by "API for
         your problem," I mean stating "Given a dataset X with properties Y, our model f takes in samples from
         x and does Z...". This can give readers a chance to understand, in a technically precise manner, what
         your experimental data will look like, how your model will operate over that data, and how it might be
         used in practice.
-     c. *Algorithm / Our Method.*
+     3. *Algorithm / Our Method.*
   4. *Experiments.*
-     a. *Dataset descriptions.*
-     b. *Experimental Goals and Procedures*
+     1. *Dataset descriptions.*
+     2. *Experimental Goals and Procedures*
         Pursuant to the goals stated in the prior section, if you want your experiments to help convince the
         reader your method works, then you should outline specifically why you run every experiment you do,
         and how those experiments help establish that fact. Coupling this to how you will actually run those
@@ -99,8 +99,8 @@ you want to help expand on any of these points!
         methods of your experiments connect to your overarching framing.
   5. *Results.*
   6. *Discussion.*
-     a. *Limitations & Context.*
-     b. *Key Takeaways.*
+     1. *Limitations & Context.*
+     2. *Key Takeaways.*
   7. *Conclusion.*
 
 ### Interview Highlights
