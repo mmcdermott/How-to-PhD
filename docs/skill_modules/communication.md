@@ -4,8 +4,13 @@
 ## Overview
 This section details how to effectively communicate your research, in particular through papers, figures, and
 presentations. Given that one major goal in writing papers is so that reviewers and peers will read them, rate
-them highly, and cite them, in this section we'll also discuss how to read papers and review papers so the
-parallels are clear.
+them highly, and cite them, in this section we'll also discuss how to review papers so the parallels are
+clear.
+
+## Table of Contents
+  1. [How do you write papers?](#how-do-you-write-papers)
+  2. [How do you make good figures?](#how-do-you-make-good-figures)
+  3. [How do you review papers?](#how-do-you-review-papers)
 
 ## General Resources
   1. [Make it Clear](https://mitpress.mit.edu/books/make-it-clear)
@@ -136,26 +141,6 @@ focused on the immediate technical craft of writing itself, but still very usefu
 #### [Effective Use of Figures in Research Papers](https://cs.stanford.edu/~marinka/slides/marinka-figures19.pdf)
 This slide deck, by [Professor Marinka Zitnik](https://dbmi.hms.harvard.edu/people/marinka-zitnik), walks
 through how to make impressive, well-designed figures for both conference and journal venues.
-
-### Interview Highlights
-*Under Construction*
-
-## How do you read papers?
-### Guiding Questions
-  1. ... for a literature review for an established project?
-  2. ... for general reading to stay abreast of the field?
-  3. ... for reviewing?
-
-### Overall Commentary & Key Take-aways
-*Under Construction*
-
-### Specific Resources
-*Under Construction*
-#### [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
-This one-page note by [Srinivasan Keshav](https://en.wikipedia.org/wiki/Srinivasan_Keshav) outlines the 
-*three pass approach*, which starts with a qucik scan of the paper, followed by a more in-depth read, followed
-by a full deep-dive which is required if you would like to, for example, reproduce the paper. Note this work
-also references other relevant works!
 
 ### Interview Highlights
 *Under Construction*
