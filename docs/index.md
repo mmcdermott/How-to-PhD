@@ -43,3 +43,7 @@ students---whatever we can do collectively to acheive that, I'm all for.
        1. What are critical things you should know about your lab/advisor/institution?
        2. What are "Red Flag" situations, and how do you respond to them?
        3. How do you navigate a difficult relationship with an advisor?
+
+# Other Resources
+  1. [How to Be a Successful PhD Student](https://people.cs.umass.edu/~wallach/how_to_be_a_successful_phd_student.pdf)
+     (Mark Dredze & Hanna M. Wallach, 03/2012)
