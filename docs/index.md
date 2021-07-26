@@ -6,6 +6,11 @@ etc. which help teach a set of concrete skills that are integral to effectively 
 in computer science). These skills are divided into 7 modules, listed below, but this is in no way intended to
 be a comprehensive or objective list.
 
+Another key disclaimer: These are my own opinions, based on my own experiences, and I could very well be
+wrong! If you think anything I'm saying here is incorrect, unhelpful, or worse, unethical for any reason,
+please [contact me](contact) so we can work to correct it. The purpose of this guide is to help new
+students---whatever we can do collectively to acheive that, I'm all for.
+
 # Index
   1. [Research](skill_modules/research)
        1. Finding / Designing New Projects

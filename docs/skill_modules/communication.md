@@ -41,12 +41,12 @@ like a slight variation of the Stanford InfoLab tips mentioned below:
      _Note here that "interesting" doesn't refer to the technical complexity of your solution, but rather why
      the investigation you're proposing is interesting in and of itself (if it is)_.
   3. Why is it hard? 
-     a. Why do naive baselines fail?
-        _In some cases, it may be self-evident why naive baselines fail. In such cases, while you should still
-        know why they fail, you may not include that in your paper._
-     b. Why hasn't it been solved before? / What's wrong with previous proposed solutions?
-        Ideally, for this point, you can give a single clear problem that dictates why prior solutions fail,
-        and use that to motivate your solution below.
+       a. Why do naive baselines fail?
+          _In some cases, it may be self-evident why naive baselines fail. In such cases, while you should still
+          know why they fail, you may not include that in your paper._
+       b. Why hasn't it been solved before? / What's wrong with previous proposed solutions?
+          Ideally, for this point, you can give a single clear problem that dictates why prior solutions fail,
+          and use that to motivate your solution below.
   4. How do I solve the problem?
      a. Concretely, how do I address the problem identified in 3b? How do I differ from prior works?
   5. How will I convince you that my solution works? E.g., what are my results?
@@ -65,7 +65,7 @@ particular test you run offers that support!
 
 #### Paper Structure
 In general, you'll include the following sections, in something like the following order. I've included a
-smattering of notes of each of these, but they should be expanded---feel free to [contribute]('contact') if
+smattering of notes of each of these, but they should be expanded---feel free to [contribute]('../contact') if
 you want to help expand on any of these points!
   0. *Abstract*
   1. *Introduction.*
@@ -253,7 +253,7 @@ posted by the venues asking for reviews! Here are a few:
   2. [ICML 2020](https://icml.cc/Conferences/2020/ReviewerGuidelines)
   3. [ICLR 2021](https://iclr.cc/Conferences/2021/ReviewerGuide)
   4. [AAAI 2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2019/09/AAAI-20-Reviewing-Guidelines.pdf)
-  5. KDD--Actually, I can't find anything for KDD after 2011. If you find anything, [contact me](contact).
+  5. KDD--Actually, I can't find anything for KDD after 2011. If you find anything, [contact me](../contact).
 
 ### Interview Highlights
 *Under Construction*
