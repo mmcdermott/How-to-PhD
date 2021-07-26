@@ -61,7 +61,7 @@ This framing both serves as an immediate outline for most introductions and serv
 of the sections in a traditional paper structure.
 
 A good recipe when thinking about using this framing is that for each point, you want to state it clearly,
-motivate it (ideally iwth citation, experimental results, arguments, or proofs), and connect it back to the
+motivate it (ideally with citation, experimental results, arguments, or proofs), and connect it back to the
 main message of your paper. For example, if you argue that a problem is important because it affects industry
 applications, find a citation for it! If you argue that existing approaches fail because of an empirical
 property, then cite it, or, if nobody has noted it previously, show it empirically! To motivate why one of
@@ -70,7 +70,7 @@ particular test you run offers that support!
 
 #### Paper Structure
 In general, you'll include the following sections, in something like the following order. I've included a
-smattering of notes of each of these, but they should be expanded---feel free to [contribute]('../contact') if
+smattering of notes of each of these, but they should be expanded---feel free to [contribute](../contact) if
 you want to help expand on any of these points!
   0. *Abstract*
   1. *Introduction.*
