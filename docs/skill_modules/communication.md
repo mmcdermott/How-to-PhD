@@ -15,7 +15,11 @@ clear.
 ## General Resources
   1. [Make it Clear](https://mitpress.mit.edu/books/make-it-clear)
 
+<details>
+  <summary>
 ## How do you write papers?
+  </summary>
+<div>
 ### Guiding Questions
   1. What should the overall structure be?
   2. How do you write the Introduction / Framing section(s)?
@@ -124,6 +128,8 @@ between this and the Stanford InfoLab tips above.
 #### Ten Tips for Writing CS Papers, Parts [1](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-1.html) and [2](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-2.html)
 This is a series of 10 tips by [Dr. Sebastian Nowozin](http://www.nowozin.net/sebastian/) that are more
 focused on the immediate technical craft of writing itself, but still very useful.
+</div>
+</details>
 
 ## How do you make good figures?
 ### Guiding Questions
