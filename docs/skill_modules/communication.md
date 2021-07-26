@@ -9,17 +9,13 @@ clear.
 
 ## Table of Contents
   1. [How do you write papers?](#how-do-you-write-papers)
-  2. [How do you make good figures?](#how-do-you-make-good-figures)
-  3. [How do you review papers?](#how-do-you-review-papers)
+  2. [How do you review papers?](#how-do-you-review-papers)
+  3. [How do you make good figures?](#how-do-you-make-good-figures)
 
 ## General Resources
   1. [Make it Clear](https://mitpress.mit.edu/books/make-it-clear)
 
-<details>
-  <summary>
 ## How do you write papers?
-  </summary>
-<div>
 ### Guiding Questions
   1. What should the overall structure be?
   2. How do you write the Introduction / Framing section(s)?
@@ -128,28 +124,6 @@ between this and the Stanford InfoLab tips above.
 #### Ten Tips for Writing CS Papers, Parts [1](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-1.html) and [2](http://www.nowozin.net/sebastian/blog/ten-tips-for-writing-cs-papers-part-2.html)
 This is a series of 10 tips by [Dr. Sebastian Nowozin](http://www.nowozin.net/sebastian/) that are more
 focused on the immediate technical craft of writing itself, but still very useful.
-</div>
-</details>
-
-## How do you make good figures?
-### Guiding Questions
-  1. What kinds of figures are there?
-  2. What design philosophies or technologies do you use?
-  3. How do you make a good overview figure?
-  4. How do you make a good results/data figure?
-
-### Overall Commentary & Key Take-aways
-*Under Construction*
-
-### Specific Resources
-*Under Construction*
-
-#### [Effective Use of Figures in Research Papers](https://cs.stanford.edu/~marinka/slides/marinka-figures19.pdf)
-This slide deck, by [Professor Marinka Zitnik](https://dbmi.hms.harvard.edu/people/marinka-zitnik), walks
-through how to make impressive, well-designed figures for both conference and journal venues.
-
-### Interview Highlights
-*Under Construction*
 
 ## How do you review papers?
 ### Guiding Questions
@@ -257,3 +231,23 @@ posted by the venues asking for reviews! Here are a few:
 These are links that are interesting and relevant, but not as directly informative or essential as those in
 other sections.
   1. https://blog.ml.cmu.edu/2020/12/01/icml2020exp/
+
+## How do you make good figures?
+### Guiding Questions
+  1. What kinds of figures are there?
+  2. What design philosophies or technologies do you use?
+  3. How do you make a good overview figure?
+  4. How do you make a good results/data figure?
+
+### Overall Commentary & Key Take-aways
+*Under Construction*
+
+### Specific Resources
+*Under Construction*
+
+#### [Effective Use of Figures in Research Papers](https://cs.stanford.edu/~marinka/slides/marinka-figures19.pdf)
+This slide deck, by [Professor Marinka Zitnik](https://dbmi.hms.harvard.edu/people/marinka-zitnik), walks
+through how to make impressive, well-designed figures for both conference and journal venues.
+
+### Interview Highlights
+*Under Construction*

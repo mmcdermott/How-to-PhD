@@ -3,7 +3,7 @@
 
 This website is intended to serve as a collection of pointers to helpful resources, interviews, presentations,
 etc. which help teach a set of concrete skills that are integral to effectively pursuing a PhD (particularly
-in computer science). These skills are divided into 7 modules, listed below, but this is in no way intended to
+in computer science). These skills are divided into modules, listed below, but this is in no way intended to
 be a comprehensive or objective list.
 
 Another key disclaimer: These are my own opinions, based on my own experiences, and I could very well be
@@ -22,16 +22,13 @@ students---whatever we can do collectively to acheive that, I'm all for.
        3. Effective Infrastructure Management for Academic Groups / Research Projects
   3. [Communication](skill_modules/communication)
        1. How do you write papers?
-       2. How do you make good figures?
-       3. How do you review papers?
+       2. How do you review papers?
+       3. How do you make good figures?
   4. [Intrapersonal](skill_modules/intrapersonal)
        1. Balancing Priorities
        2. Time management
        3. Dealing with Failure & Rejection
        3. Information channels
-  5. [Interpersonal](skill_modules/interpersonal)
-       1. How do you be a good mentor / mentee?
-       2. How do you have an effective collaboration?
   6. [Moving On](skill_modules/moving_on)
        1. Thesis & Graduation
        2. Career Options

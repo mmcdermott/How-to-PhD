@@ -17,7 +17,7 @@
 
 ## Starting Projects
 ### Guiding Questions
-  1. How to scope a new project?
+  1. How do you scope a new project?
   2. How do you determine the preliminary milestones and timeline of a new project?
   3. How do you do a literature review for a new project?
        1. How do you find relevant papers?
@@ -31,6 +31,20 @@
 This guide is largely focused on hos to structure projects for publication and impact, and is very related to
 communication questions as well. It is thus also featured in the [communication](skill_modules/communication)
 section of this guide, but it is very relevant here too!
+
+#### [Stanford InfoLab Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
+This guide is a great starting point for writing technical papers. I particularly value their discussion on
+the introduction, which states that an effective introduction must focus on answering five key questions:
+  1. What is the problem?
+  2. Why is it interesting and important?
+  3. Why is it hard? (E.g., why do naive approaches fail?)
+  4. Why hasn't it been solved before? (Or, what's wrong with previous proposed solutions? How does mine differ?)
+  5. What are the key components of my approach and results? Also include any specific limitations.
+
+I highlight this resource here (as well as in the [communications](communication) section) because you need to
+do research such that you can eventual frame it into a compelling paper/project. Therefore, thinking about how
+you would frame your project, even as you're just beginning the work, can help you structure the project
+overall.
 
 ### Interview Highlights
 *Under Construction*
