@@ -6,6 +6,12 @@ etc. which help teach a set of concrete skills that are integral to effectively 
 in computer science). These skills are divided into modules, listed below, but this is in no way intended to
 be a comprehensive or objective list.
 
+Key disclaimer: I link to a lot of external resources here. However, due to a number of reasons relating to
+time management and this not being a formal paper, few of them are given formal citations. I've done my best,
+however, to link to all of them and attribute authors directly as well---in any case you feel this is
+insufficient, or a link/concept deserves further attribution, please feel free to
+[contribute or contact me](contact) directly so that can be remedied.
+
 Another key disclaimer: These are my own opinions, based on my own experiences, and I could very well be
 wrong! If you think anything I'm saying here is incorrect, unhelpful, or worse, unethical for any reason,
 please [contact me](contact) so we can work to correct it. The purpose of this guide is to help new

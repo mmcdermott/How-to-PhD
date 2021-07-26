@@ -2,6 +2,30 @@
 ## Overview
 **Under Construction** Please check back later!
 
+## General Resources
+### [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
+This essay, by [John Schulman](http://joschu.net/index.html), provides an end-to-end guide to pursuing ML
+research. Note the two excellent citations to other essays, also linked here. I have yet to read it in full.
+
+### [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+This is a (transcribed) talk by [Richard Hamming](https://en.wikipedia.org/wiki/Richard_Hamming). I have yet
+to read it in full.
+
+### [Principles of Effective Research](https://michaelnielsen.org/blog/principles-of-effective-research/)
+This blog post, by [Michael Nielsen](https://michaelnielsen.org/blog/michael-a-nielsen/) describes several
+principles of effective research. In comparison to some of the other resources here, these are more
+self-oriented, and are thus highly relevant to the [intrapersonal](../intrapersonal) skills section of this
+guide as well. I have yet to read this in full.
+
+### [Lessons from My First Two Years of AI Research](https://web.mit.edu/tslvr/www/lessons_two_years.html)
+This blog post by [Tom Silver] touches on lots of components of starting ML/AI research projects, and is
+relevant here and in other sections of this module. I have yet to read it in full.
+
+## Table of Contents
+  1. [Finding / Designing New Projects](#finding-designing-new-projects)
+  2. [Starting Projects](#starting-projects)
+  3. [Finishing Projects](#finishing-projects)
+
 ## Finding / Designing New Projects
 ### Guiding Questions
   1. How do you come up with a new project?
@@ -11,6 +35,7 @@
 *Under Construction*
 
 ### Specific Resources
+*Under Construction*
 
 ### Interview Highlights
 *Under Construction*
