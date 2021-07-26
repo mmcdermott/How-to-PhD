@@ -53,7 +53,7 @@ like a slight variation of the Stanford InfoLab tips mentioned below:
           Ideally, for this point, you can give a single clear problem that dictates why prior solutions fail,
           and use that to motivate your solution below.
   4. How do I solve the problem?
-     1. Concretely, how do I address the problem identified in 3b? How do I differ from prior works?
+     1. Concretely, how do I address the problem identified in 3.2? How do I differ from prior works?
   5. How will I convince you that my solution works? E.g., what are my results?
   6. What is the context in which my solution works? What are the limitations of my solutoin?
 
@@ -194,10 +194,12 @@ reviewers on a common understanding of the work.
      both key strengths and key weaknesses, and it may be that there are more key strengths than key
      weaknesses on a paper I ultimately recommend rejecting, or vice-versa, depending on the magnitude of each
      concern.
+
 ##### "Minor Strengths" / "Minor Weaknesses"
 Here, the focus is on the other minor strengths and weaknesses, that, while nontrivial, would not change my
 decision either way alone (though many together certainly could). As these are not (in general) wht will
 decide the recommendation either way, the primary goal here is to help the author, not the venue.
+
 ##### "Presentaiton" / "Minor Missing References"
 In some cases, either due to review forms or details of the paper, I'll separately highlight any commentary on
 presentation quality or missing references. Missing references, in particular, however, usually comes up
@@ -206,6 +208,7 @@ missing you must attempt to find missing references!** Usually, with a few quick
 determine if any major holes exist in the references for a given submission, and I am consistently surprised
 at how few reviewers do this. I have also personally caught at least one case of plagarism / dual submission
 violation in this way, that would have otherwise gone unnoticed, so it is an important, understated step!
+
 ##### "Overall Recommendation"
 Here I just synthesize previously noted things into a single accept/reject recommendation. Some people state
 that you should always give extreme recommendations, but I disagree with this -- skepticisim and
@@ -214,6 +217,7 @@ and tend to give less confident scores (e.g., minor accept/reject vs. extreme ac
 is just my take, and other opinions may differ. If there is any ambiguity in the key strengths/weaknesses
 sections as to which way the recommendation will go (e.g., if both lists are equally populuated), I'll try to
 reconcile that here and clarify my thought process.
+
 ##### "Questions for the Author" / "Author Response Guidance"
 In this section, I have up to two subsections, splitting my questions for the author / guidance on changes I'd
 want to see based on whether or not satisfactory answers to them would likely change my score. The motivation
