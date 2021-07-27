@@ -49,3 +49,5 @@ students---whatever we can do collectively to acheive that, I'm all for.
      (Mark Dredze & Hanna M. Wallach, 03/2012)
   2. [So long, and thanks for the Ph.D.!](https://www.cs.unc.edu/~azuma/hitch4.html)
      (Ronald T. Azuma, 1997; rev. 2019)
+  3. [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
+     (Andrej Karapthy, 2016)
