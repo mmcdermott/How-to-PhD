@@ -3,6 +3,14 @@
 **Under Construction** Please check back later!
 
 ## General Resources
+### [Various Resources by Matt Might](https://matt.might.net/articles/)
+This is a link to [Matt Might's](https://matt.might.net) blog. See the section on "Graduate School" for
+specific articles relevant to this topic. A few to look at in particular:
+  * https://matt.might.net/articles/phd-school-in-pictures/
+  * https://matt.might.net/articles/peer-review-rebuttals/
+  * https://matt.might.net/articles/books-papers-materials-for-graduate-students/
+  * https://matt.might.net/articles/advice-for-phd-thesis-proposals/
+
 ### [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 This essay, by [John Schulman](http://joschu.net/index.html), provides an end-to-end guide to pursuing ML
 research. Note the two excellent citations to other essays, also linked here. I have yet to read it in full.
@@ -32,7 +40,82 @@ relevant here and in other sections of this module. I have yet to read it in ful
   2. How to gauge the viability / likelihood of success of a new project?
 
 ### Overall Commentary & Key Take-aways
-*Under Construction*
+#### How do you come up with a new project?
+There are a number of distinct, valuable perspectives to keep in mind when thinking about designing new
+projects. Some will resonate differently with different people.
+##### Paper Arithmetic
+A really powerful strategy that is likely the one that (especially early PhD students) most people should most
+often employ is one I call "Paper Arithmetic". In this perspective, you look at _recent_, _well-regarded_
+papers in your particular subfield, and try to find 3 things:
+  1. Technical holes left in these lines of research
+  2. Clever ways to combine ideas, techniques, features of different papers together.
+  3. Motivating problems, datasets, scenarios that are understudied but clearly important.
+
+If you can find a set of 3 of these things that synergize well, that's a paper. Why is this calld "Paper
+Arithmetic"? Because rather than starting form an idea, you start with existing papers, and the background set
+of knowledge/context, and try to find different combinations that yield promising research ideas.
+
+###### Examples
+My first paper during my PhD was entitled [Semi-Supervised Biomedical Translation with Cycle Wasserstein
+Regression GANs](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16938/15951). This paper, while
+it undeniably has many flaws, is a great example of Paper Arithmetic. Why? The core technical method is a
+direct combination of two other papers: the [Cycle GAN] paper for unsupervised image-image translation
+and the [Wassertsein GAN] paper for stabilizing generative learning. The technical hole left in these lines of
+research is ways that cycle GANs can be producitvely deployed in real-world learning contents on data
+modalities that are not images (for which successful use of GANs was much less prevalent), and the motivating
+problem was paired vs. unpaired data disparities in treatment effect estimation in healthcare contexts.
+
+##### Immersion & Ethnography
+Especially in application contexts, what separates high-impact from low-impact papers is a deep understanding
+of the _real_ problems you're trying to solve and the _real_ constraints on the needed solutions. Immersing
+yourself in the application area of interest until you appreciate those problems from an instinctive, habitual
+level is, in my opinion, the best way to gain this understanding. If you can't gain this yourself (e.g., in a
+multi-discplinary context), find collaborators who can, and trust their judgement (though not blindly, and not
+without limit).
+
+If you can provide a solution that (1) solves a real problem, (2) fits into the users' real workflow, and (3)
+doesn't introduce new, other problems or require new ways of doing things, then this is a great starting point
+to having real impact.
+
+###### Key Resource Paper
+An important subset of this area is when you produce a paper that provides a key resource for your community.
+For example, at the time of writing this, my most cited paper is also my least technically
+interesting--namely, [Clinical BERT](https://arxiv.org/abs/1904.03323) a paper that provides a pre-trained
+clinical BERT model for use in clinical NLP tasks. This paper was well-timed but provided a resource that met
+a clear need in the community, and thus has been used many times in many downstream works. As this is a
+resource for the community you're already in, you will (or should) naturally already have this understanding
+of the problems people face.
+
+##### Gestalt
+I highlight this not because it is typically a good strategy, but because it is an unfortunately common
+strategy and because it is a trap. This strategy of coming up with a new project is when you suddenly, out of
+the blue, have a great idea, and on further thinking about it, you convince yourself further and further that
+this beautiful castle in the sky with minimal grounding. Often, when you try to execute on ideas generated in
+this fashion, you'll find three things
+  1. You didn't fully understand the space in which you're researching.
+  2. You didn't appreciate the existing related literature, which already does what you're hoping to do.
+  3. You didn't have a real motivating problem in mind that is sufficiently pressing, actionable, and
+     operationalized to make a functional research project.
+
+I can give so many examples of papers I've pursued in this vein, but the sad reality is that as of the time of
+this writing, very few of them are published. 
+
+However, this is not to say that great projects can't come out of this sort of project ideation. How can you
+turn an initially gestalt-motivated idea into something more likely to succeed?
+  1. Talk to experts in the areas of interest and explain your idea. If they're also excited (and not just
+     encouraging, but actually sufficiently excited so as to want to get involved), you may be onto something
+     worth pursuing! This is a critical first step because the reality is that unless you have years of
+     experience in an area, you shouldn't trust your own intuition about the viability of the project, but you
+     (likely) can trust the intuition of an expert. If you can bring them on as an actual collaborator, not
+     only does that show they think it could succeed, but you'll have their expertise throughout the rest of
+     the project.
+  2. Write a formal project proposal, focusing specifically on how the project fits into the related
+     literature. Try to (you'll often have to narrow your scope) find a way to fit your project into one of
+     the other frameworks presented.
+  3. Identify an operationalized target for your project and a series of go/no-go experiments (meaning
+     experiments for which if you can't get your idea to work, you'll set the project aside [at least
+     temporarily] and move onto other ideas). While success is better than failure, failing fast is also much
+     better than failing slow.
 
 ### Specific Resources
 *Under Construction*

@@ -62,6 +62,11 @@ time off and space away, and to manage your stress despite the never-ending stre
 *Under Construction*
 
 ### Specific Resources
+  1. https://www.nature.com/articles/d41586-018-07794-z
+  2. https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/
+  3. https://www.quora.com/How-do-you-emotionally-cope-with-a-rejection-of-your-paper
+  4. https://www.quora.com/How-do-I-salvage-my-PhD-after-failing-projects-and-garnering-no-publications-I-have-ten-months-left-before-I-quit
+  5. https://academia.stackexchange.com/questions/125263/failing-phd-how-to-go-forward
 
 ### Interview Highlights
 *Under Construction*
