@@ -224,6 +224,10 @@ posted by the venues asking for reviews! Here are a few:
   4. [AAAI 2020](https://aaai.org/Conferences/AAAI-20/wp-content/uploads/2019/09/AAAI-20-Reviewing-Guidelines.pdf)
   5. KDD--Actually, I can't find anything for KDD after 2011. If you find anything, [contact me](../contact).
 
+#### [Tips for Reviewing Research Papers](https://psc-g.github.io/posts/mentoring/reviewing/)
+This guide, by [Pablo Samuel Castro](https://psc-g.github.io/) lists good practices for reviewing technical ML
+papers. I haven't gone through it in depth yet, but at a quick read it seems like excellent advice.
+
 ### Interview Highlights
 *Under Construction*
 
