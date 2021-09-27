@@ -29,6 +29,9 @@ guide as well. I have yet to read this in full.
 This blog post by [Tom Silver] touches on lots of components of starting ML/AI research projects, and is
 relevant here and in other sections of this module. I have yet to read it in full.
 
+### [How to start a Deep Learning Project](https://twitter.com/MattNiessner/status/1441027241870118913)
+A useful twitter thread with some good pointers.
+
 ## Table of Contents
   1. [Finding / Designing New Projects](#finding-designing-new-projects)
   2. [Starting Projects](#starting-projects)
