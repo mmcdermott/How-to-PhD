@@ -83,5 +83,18 @@ or that there isn't sufficient novelty in a work to pursue, even when given an i
 contribution of an existing paper.
 
 ### Debugging & Testing
+This prompt is focused on imputing missing test case code for a complex library.
+```
+You are the world's best coder and debugger, an expert in python, data engineering, test-driven development, and the polars library. Given the class and scaffold of python unittest code below, complete the following tasks: (1) identify and correct any bugs in the class code that are not related to missing imports (which you should ignore). (2) Fill in the missing portions of code with tests that cover the class functions and finish all partial test cases.
 
-### Paper Review
+# Classes:
+...
+# Test cases:
+...
+```
+
+I have found that it works well on simple settings with limited scope, but on more complex, full featured
+areas, or situations with newer libraries, it struggles to provide meaningful improvements
+([example](./code/complex_prompt.png)). In this setting, simpler prompts are also highly effective, again
+subject to the same constraints
+([example](./code/simple_prompt.png)).
