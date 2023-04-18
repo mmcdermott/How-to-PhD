@@ -18,6 +18,8 @@ please [contact me](contact) so we can work to correct it. The purpose of this g
 students---whatever we can do collectively to acheive that, I'm all for.
 
 # Index
+  1. [Adapting to the Foundation Model Era](leveraging_LLMs/index)
+       1. Making the best use of foundation models as tools for your research
   1. [Research](skill_modules/research)
        1. Finding / Designing New Projects
        2. Starting Projects
