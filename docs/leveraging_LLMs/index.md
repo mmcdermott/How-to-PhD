@@ -103,3 +103,10 @@ areas, or situations with newer libraries, it struggles to provide meaningful im
 ([example](./code/complex_prompt.png)). In this setting, simpler prompts are also highly effective, again
 subject to the same constraints
 ([example](./code/simple_prompt.png)).
+
+## Other Useful Links:
+  1. https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh
+  2. https://twitter.com/Artifexx/status/1632277025472888833
+  3. https://twitter.com/Artifexx/status/1639451801434083328?lang=en
+  4. https://twitter.com/MushtaqBilalPhD/status/1621379333943083009?lang=en
+  5. https://twitter.com/andriy_mulyar/status/1636139257805828096
