@@ -40,13 +40,14 @@ Your concrete tasks are:
     *space separated* list of the search queries in quotes, in a single line, like this: "query_1" "query_2" ...
 (4) After you give me search queries, I will give you a collection results from running those queries over
     academic search engines. We'll work together to identify key resources to reference for this project and to
-    see if anybody else has already done this idea, in which case we'll need to go back to the drawing board. For this task, you should output to me the following information, then pause and let me assess before we move on to task 5.
+    see if anybody else has already done this idea, in which case we'll need to go back to the drawing board.
+    For this task, you should output to me the following information, then pause and let me assess before we
+    move on to task 5.
 
     Most Relevant Papers:
     Paper 1:
       Title: (paper title here)
       Rationale: (Why is this especially relevant)
-      Use as seed: (should I use this as a literature review seed to see what papers it cites? Or what papers cite it? Or Both?)
     Paper 2:
       ...
 
@@ -85,7 +86,11 @@ contribution of an existing paper.
 ### Debugging & Testing
 This prompt is focused on imputing missing test case code for a complex library.
 ```
-You are the world's best coder and debugger, an expert in python, data engineering, test-driven development, and the polars library. Given the class and scaffold of python unittest code below, complete the following tasks: (1) identify and correct any bugs in the class code that are not related to missing imports (which you should ignore). (2) Fill in the missing portions of code with tests that cover the class functions and finish all partial test cases.
+You are the world's best coder and debugger, an expert in python, data engineering, test-driven development,
+and the INSERT LIBRARIES HERE libraries. Given the class and scaffold of python unittest code below, complete
+the following tasks: (1) identify and correct any bugs in the class code that are not related to missing
+imports (which you should ignore). (2) Fill in the missing portions of code with tests that cover the class
+functions and finish all partial test cases.
 
 # Classes:
 ...
