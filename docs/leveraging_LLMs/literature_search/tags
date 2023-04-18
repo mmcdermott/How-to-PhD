@@ -1,0 +1,6 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+LitReview	/home/mmd/Projects/gpt4_prompts/literature_search/via_api.py	/^class LitReview():$/;"	c	language:Python
+loop	/home/mmd/Projects/gpt4_prompts/literature_search/via_api.py	/^    def loop(self, msg: str, past: Optional[List[Dict[str, str]]]=None):$/;"	m	language:Python	class:LitReview
+start	/home/mmd/Projects/gpt4_prompts/literature_search/via_api.py	/^    def start(self):$/;"	m	language:Python	class:LitReview
+start_lit_review	/home/mmd/Projects/gpt4_prompts/literature_search/via_api.py	/^def start_lit_review($/;"	f	language:Python
+__init__	/home/mmd/Projects/gpt4_prompts/literature_search/via_api.py	/^    def __init__(self, idea: str, model: str = 'gpt-3.5-turbo'):$/;"	m	language:Python	class:LitReview
